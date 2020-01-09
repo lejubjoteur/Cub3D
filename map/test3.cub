@@ -1,0 +1,12 @@
+R 1920 1080
+WE texture/pierre.xpm
+NO texture/nord.xpm
+SO texture/murs.xpm
+EA texture/briqueclair.xpm
+F 0,100,14
+C 45,87,200
+
+S texture/ct1.xpm 
+111
+1N1
+111
